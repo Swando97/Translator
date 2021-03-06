@@ -5,6 +5,6 @@ from pprint import pprint
 translator = Translator()
 
 # translate a spanish text to english text (by default)
-translation = translator.translate("Hola Mundo")
+translation = translator.translate("Hello World!", dest="uk")
 print(f"{translation.origin} ({translation.src}) --> {translation.text} ({translation.dest})")
 

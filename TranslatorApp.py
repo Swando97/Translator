@@ -19,3 +19,11 @@ translations = translator.translate(sentence)
 for translation in translations:
     print(f"{translation.text}")
 
+# Lets get the Text-to-Speech library imported and read this "hidden" message! 
+# 1) download TTS library on terminal
+# 2) import the TTS library into program
+# 3) create instance of TTS object
+# 4) invoke the TTS object to read sentences in English
+# 5) give the TTS object a Norwegian accent for lol's 
+# -----------------------------------------------------------------------------
+# START NEW PYTHON PROJECT (Research some cool options)

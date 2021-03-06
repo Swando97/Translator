@@ -14,7 +14,7 @@ sentence = ["Kjære venner og familie, jeg er veldig lei meg. Det var aldri min 
 "Jeg vil aldri være i stand til å betale tilbake dere for de tingene dere gjorde. Jeg vil prøve. Jeg vil begynne med å si at jeg elsker deg. Takk skal du ha."]
 
 # translate a spanish text to english text (by default)
-translations = translator.translate(sentence, dest="en")
+translations = translator.translate(sentence)
 
 for translation in translations:
     print(f"{translation.text}")

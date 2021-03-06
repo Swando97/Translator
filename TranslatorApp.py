@@ -13,5 +13,5 @@ sentence = [ "Dear Yuliia, I am very sorry. It was never my intention to hurt yo
 translations = translator.translate(sentence, dest="uk")
 
 for translation in translations:
-    print(f"{translation.origin} ({translation.src}) --> {translation.text} ({translation.dest})")
+    print(f"{translation.text}")
 

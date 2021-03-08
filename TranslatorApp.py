@@ -27,3 +27,4 @@ for translation in translations:
 # 5) give the TTS object a Norwegian accent for lol's 
 # -----------------------------------------------------------------------------
 # START NEW PYTHON PROJECT (Research some cool options)
+# I need to make a push to GitHub... This is a shortcut day b/c I was developing my website QRZones and learning SalesForce 

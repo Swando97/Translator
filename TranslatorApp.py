@@ -24,5 +24,5 @@ for translation in translations:
 # 2) import the TTS library into program
 # 3) create instance of TTS object
 # 4) invoke the TTS object to read sentences in English
-# 5) give the TTS object a Norwegian accent for lol's 
+# 5) give the TTS object a Norwegian accent
 # -----------------------------------------------------------------------------
